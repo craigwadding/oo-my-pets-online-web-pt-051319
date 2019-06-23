@@ -6,5 +6,4 @@ class Fish
     @mood = mood
     @name = name 
   end 
-  # code goes here
 end
